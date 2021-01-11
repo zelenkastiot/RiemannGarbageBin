@@ -5,8 +5,7 @@
 The paper was published to a local conference ([CIIT](http://ciit.finki.ukim.mk/)) in 2018. <br> 
 The preprint is avilable here: *["Riemann Garbage Bin: A Self-sustained Waste Management System"](https://www.researchgate.net/publication/333058906_Riemann_Garbage_Bin_A_Self-sustained_Waste_Management_System)*. 
 
-*** 
-
+## Abstract 
 This repo contains all of the codes for the prototype explained in the paper. I wrote it during my 2nd year of Computer Science studies and the idea for the garbage bin came to me while solving a Calculus exam question. The paper shortly elaborates the idea (it has some issues) for building a self-sustained sensor system, a hypothetical network composed of nodes implementing the Riemann Garbage Bin (RGB) model. The model is named after the creator of the formula, Riemann Sum approximaties an integral by a finite sum.
 
 <p align="center">

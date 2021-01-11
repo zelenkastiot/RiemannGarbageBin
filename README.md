@@ -16,5 +16,5 @@ Hence, the case study explores the potential of employing sensor-enabled systems
 <hr>
 <p align="center">
 <img src="https://raw.githubusercontent.com/zelenelez/images/master/finki.jpg" width=70%;></img> <br>
-Пролет, 2018
+Spring, 2018
 </p>

@@ -1,5 +1,5 @@
 # Riemann Garbage Bin (RGB) model
-[**Filip Karafiloski**](https://www.researchgate.net/profile/Filip_Karafiloski) | [**Igor Mishkovski**](https://www.researchgate.net/profile/Igor_Mishkovski) | [**Kiril Zelenkovski**](https://www.researchgate.net/profile/Kiril_Zelenkovski) 
+[**Kiril Zelenkovski**](https://scholar.google.com/citations?user=OIC1DB0AAAAJ&hl=en&oi=ao) | [**Filip Karafiloski**](https://www.researchgate.net/profile/Filip_Karafiloski) | [**Igor Mishkovski**](https://scholar.google.com/citations?hl=en&user=Q3GcCR0AAAAJ&view_op=list_works)  
 
 
 The paper was published to a local conference ([CIIT](http://ciit.finki.ukim.mk/)) in 2018. <br> 
